@@ -1,0 +1,612 @@
+{"frames": {
+
+"wizard_Dying_00.png":
+{
+	"frame": {"x":175,"y":266,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_01.png":
+{
+	"frame": {"x":250,"y":266,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":24,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_02.png":
+{
+	"frame": {"x":325,"y":266,"w":77,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":77,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_03.png":
+{
+	"frame": {"x":98,"y":266,"w":77,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":18,"w":77,"h":98},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_04.png":
+{
+	"frame": {"x":0,"y":1262,"w":76,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":13,"w":76,"h":101},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_05.png":
+{
+	"frame": {"x":0,"y":365,"w":80,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":80,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_06.png":
+{
+	"frame": {"x":387,"y":76,"w":90,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":17,"w":90,"h":93},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_07.png":
+{
+	"frame": {"x":294,"y":76,"w":93,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":29,"w":93,"h":90},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_08.png":
+{
+	"frame": {"x":198,"y":76,"w":96,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":43,"w":96,"h":84},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_09.png":
+{
+	"frame": {"x":99,"y":76,"w":99,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":57,"w":99,"h":78},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_10.png":
+{
+	"frame": {"x":0,"y":76,"w":99,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":63,"w":99,"h":77},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_11.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":66,"w":100,"h":76},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_12.png":
+{
+	"frame": {"x":100,"y":0,"w":100,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":66,"w":100,"h":76},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_13.png":
+{
+	"frame": {"x":200,"y":0,"w":100,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":66,"w":100,"h":76},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Dying_14.png":
+{
+	"frame": {"x":300,"y":0,"w":100,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":66,"w":100,"h":76},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_00.png":
+{
+	"frame": {"x":80,"y":365,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_01.png":
+{
+	"frame": {"x":155,"y":365,"w":77,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":28,"w":77,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_02.png":
+{
+	"frame": {"x":198,"y":662,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_03.png":
+{
+	"frame": {"x":76,"y":1262,"w":76,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":26,"w":76,"h":101},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_04.png":
+{
+	"frame": {"x":152,"y":1262,"w":79,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":26,"w":79,"h":101},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_05.png":
+{
+	"frame": {"x":274,"y":662,"w":81,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":27,"w":81,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_06.png":
+{
+	"frame": {"x":355,"y":662,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":80,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_07.png":
+{
+	"frame": {"x":0,"y":762,"w":79,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":27,"w":79,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_08.png":
+{
+	"frame": {"x":79,"y":762,"w":79,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":27,"w":79,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_09.png":
+{
+	"frame": {"x":158,"y":762,"w":78,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":27,"w":78,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_10.png":
+{
+	"frame": {"x":236,"y":762,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":27,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Hurt_11.png":
+{
+	"frame": {"x":313,"y":762,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":27,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_00.png":
+{
+	"frame": {"x":232,"y":365,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_01.png":
+{
+	"frame": {"x":307,"y":365,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_02.png":
+{
+	"frame": {"x":382,"y":365,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_03.png":
+{
+	"frame": {"x":0,"y":464,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_04.png":
+{
+	"frame": {"x":76,"y":464,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_05.png":
+{
+	"frame": {"x":390,"y":762,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_06.png":
+{
+	"frame": {"x":0,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_07.png":
+{
+	"frame": {"x":76,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_08.png":
+{
+	"frame": {"x":152,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_09.png":
+{
+	"frame": {"x":228,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_10.png":
+{
+	"frame": {"x":304,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_11.png":
+{
+	"frame": {"x":380,"y":862,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_12.png":
+{
+	"frame": {"x":0,"y":962,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_13.png":
+{
+	"frame": {"x":76,"y":962,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_14.png":
+{
+	"frame": {"x":151,"y":464,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_15.png":
+{
+	"frame": {"x":227,"y":464,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_16.png":
+{
+	"frame": {"x":303,"y":464,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Idle_17.png":
+{
+	"frame": {"x":379,"y":464,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_00.png":
+{
+	"frame": {"x":0,"y":563,"w":75,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":28,"w":75,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_01.png":
+{
+	"frame": {"x":75,"y":563,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":27,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_02.png":
+{
+	"frame": {"x":153,"y":962,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":25,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_03.png":
+{
+	"frame": {"x":230,"y":962,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":24,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_04.png":
+{
+	"frame": {"x":307,"y":962,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":23,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Jump Start_05.png":
+{
+	"frame": {"x":231,"y":1262,"w":78,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":21,"w":78,"h":101},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_00.png":
+{
+	"frame": {"x":151,"y":563,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_01.png":
+{
+	"frame": {"x":384,"y":962,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_02.png":
+{
+	"frame": {"x":0,"y":1062,"w":75,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":25,"w":75,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_03.png":
+{
+	"frame": {"x":75,"y":1062,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":23,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_04.png":
+{
+	"frame": {"x":227,"y":563,"w":77,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":25,"w":77,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_05.png":
+{
+	"frame": {"x":304,"y":563,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":26,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_06.png":
+{
+	"frame": {"x":380,"y":563,"w":76,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":28,"w":76,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_07.png":
+{
+	"frame": {"x":152,"y":1062,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_08.png":
+{
+	"frame": {"x":228,"y":1062,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":25,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_09.png":
+{
+	"frame": {"x":309,"y":1262,"w":77,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":23,"w":77,"h":101},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_10.png":
+{
+	"frame": {"x":304,"y":1062,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":25,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Running_11.png":
+{
+	"frame": {"x":381,"y":1062,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":26,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_00.png":
+{
+	"frame": {"x":0,"y":1162,"w":77,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":27,"w":77,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_01.png":
+{
+	"frame": {"x":77,"y":1162,"w":76,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":76,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_02.png":
+{
+	"frame": {"x":153,"y":1162,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":27,"w":106,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_03.png":
+{
+	"frame": {"x":0,"y":662,"w":100,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":28,"w":100,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_04.png":
+{
+	"frame": {"x":0,"y":169,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":30,"w":99,"h":97},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_05.png":
+{
+	"frame": {"x":99,"y":169,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":30,"w":99,"h":97},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_06.png":
+{
+	"frame": {"x":198,"y":169,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":30,"w":99,"h":97},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_07.png":
+{
+	"frame": {"x":297,"y":169,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":30,"w":99,"h":97},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_08.png":
+{
+	"frame": {"x":0,"y":266,"w":98,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":30,"w":98,"h":97},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_09.png":
+{
+	"frame": {"x":100,"y":662,"w":98,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":28,"w":98,"h":99},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_10.png":
+{
+	"frame": {"x":259,"y":1162,"w":101,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":27,"w":101,"h":100},
+	"sourceSize": {"w":150,"h":150}
+},
+"wizard_Slashing_11.png":
+{
+	"frame": {"x":360,"y":1162,"w":103,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":103,"h":100},
+	"sourceSize": {"w":150,"h":150}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wizard.png",
+	"format": "RGBA8888",
+	"size": {"w":477,"h":1363},
+	"scale": "0.167",
+	"smartupdate": "$TexturePacker:SmartUpdate:234a681b80ac51592f64bc5fc8730ffd:891318067eef889dec016d20c52b24a2:c2f03393673973d4565620d8409bf6df$"
+}
+}

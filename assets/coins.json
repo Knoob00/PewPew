@@ -1,0 +1,92 @@
+{"frames": {
+
+"Gold_21.png":
+{
+	"frame": {"x":1,"y":1,"w":84,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":85},
+	"sourceSize": {"w":84,"h":85}
+},
+"Gold_22.png":
+{
+	"frame": {"x":87,"y":1,"w":84,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":85},
+	"sourceSize": {"w":84,"h":85}
+},
+"Gold_23.png":
+{
+	"frame": {"x":259,"y":1,"w":76,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":85},
+	"sourceSize": {"w":76,"h":85}
+},
+"Gold_24.png":
+{
+	"frame": {"x":414,"y":1,"w":64,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":85},
+	"sourceSize": {"w":64,"h":85}
+},
+"Gold_25.png":
+{
+	"frame": {"x":546,"y":1,"w":39,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":85},
+	"sourceSize": {"w":39,"h":85}
+},
+"Gold_26.png":
+{
+	"frame": {"x":628,"y":1,"w":16,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":85},
+	"sourceSize": {"w":16,"h":85}
+},
+"Gold_27.png":
+{
+	"frame": {"x":587,"y":1,"w":39,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":85},
+	"sourceSize": {"w":39,"h":85}
+},
+"Gold_28.png":
+{
+	"frame": {"x":480,"y":1,"w":64,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":85},
+	"sourceSize": {"w":64,"h":85}
+},
+"Gold_29.png":
+{
+	"frame": {"x":337,"y":1,"w":75,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":85},
+	"sourceSize": {"w":75,"h":85}
+},
+"Gold_30.png":
+{
+	"frame": {"x":173,"y":1,"w":84,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":85},
+	"sourceSize": {"w":84,"h":85}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coins.png",
+	"format": "RGBA8888",
+	"size": {"w":645,"h":87},
+	"scale": "0.15",
+	"smartupdate": "$TexturePacker:SmartUpdate:217b48bd4ed9d208d62644260c650995:f637133cd92d761acc4d6a0c4b403960:51f960d29b2cb2ae0010061540f14fb7$"
+}
+}
